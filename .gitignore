@@ -1,0 +1,4 @@
+.env
+*.cer
+
+node_modules/**
